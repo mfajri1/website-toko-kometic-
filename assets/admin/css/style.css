@@ -1,0 +1,84 @@
+/* form Login */
+.bg-body{
+	background-color: #ebebeb;
+}
+
+.content-login{
+	background-color: white;
+	width: 50%;
+	margin: auto;
+	margin-top : 50px;
+	box-shadow: -2px 2px 3px #d3d3d3;
+}
+
+
+@media (max-width: 720px){
+	.content-login{
+		width: 80%;
+	}	
+}
+
+/* design sweetalert */
+.swal-title {
+  margin: 0px;
+  font-size: 16px;
+  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.21);
+  margin-bottom: 28px;
+}
+
+
+/*design form register*/
+.betul, .betul2{
+	background-color: #fff;
+	border : none;
+}
+
+
+/*edit data profile*/
+.input-form{
+	box-shadow: 2px 2px 2px 2px #c5c5c5;
+}
+
+.headProfile{
+	width : 250px;
+}
+.headProfileJudul{
+	width : 100px;
+}
+
+
+
+/*edit data konfig*/
+.labelHead{
+	width: 100px;
+}
+
+
+/*edit chekIcon*/
+.checkInput, .checkInput:focus{
+	background: none;
+	border: none;
+}
+
+
+/*isi Transaksi*/
+#isiTransaksi{
+	width: 100%;
+	/*overflow: hidden;*/
+	overflow-x: scroll;
+}
+
+.transaksiForm{
+	min-width: 180%;
+}
+
+.inputForm{
+	width: 200px;
+	display: inline-block; 
+}
+
+.baris{
+	border : 1px solid #c2bebe;
+	margin : 2px;
+	border-radius: 20px;
+}

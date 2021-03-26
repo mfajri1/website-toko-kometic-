@@ -1,0 +1,28 @@
+{
+  "name": "jquery-image-reader",
+  "homepage": "https://github.com/ipanardian/jquery-image-reader",
+  "authors": [
+    "ipanardian <ipan.software@gmail.com>"
+  ],
+  "description": "A jQuery plugin that previews image very fast without needing to upload to your server",
+  "main": "jquery.imagereader.js",
+  "dependencies": {
+    "jquery": "3.x"
+  },
+  "resolutions": {
+    "jquery": "3.x"
+  },
+  "keywords": [
+    "jquery",
+    "plugin",
+    "image",
+    "reader",
+    "image",
+    "upload",
+    "upload",
+    "file",
+    "ipan",
+    "ardian"
+  ],
+  "license": "MIT"
+}
